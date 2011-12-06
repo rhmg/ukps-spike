@@ -1,0 +1,15 @@
+<viewdata model="Resources.Home" />
+<h1>Welcome to the UkPharmaScan replacement application spike thing.</h1>
+<p>
+  The purpose of this system is to prove we can simplify things the original system while retaining most, if not all, of the functionality.  Each feature will be
+  demoonstrated through links listed below.
+</p>
+<hr />
+<h2>
+  Different forms based on user identity
+</h2>
+<p>
+  click <a href="/pharma">here</a> to view the form as an Pharmaceutical user (can see everything and is editable)<br/>
+  click <a href="">here</a> to view the form as a Horizon Scanner <br/>
+  click <a href="">here</a> to view the form as an NHS user<br />
+</p>

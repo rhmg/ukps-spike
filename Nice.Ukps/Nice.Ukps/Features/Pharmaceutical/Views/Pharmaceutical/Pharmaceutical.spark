@@ -1,0 +1,15 @@
+<viewdata model="Resources.Pharmaceutical"/>
+<h1>Horizon Scanner View</h1>
+<form method="post">
+  <fieldset>
+    <legend>Record number !{Model.Id}</legend>
+    Title: <input type="text" name="Title" value="!{Model.Title}" /><br />
+    Description: <input name="Description" value="!{Model.Description}" /><br />
+    Count: <input type="text" name="Count" value="!{Model.Count}" /><br />
+    Decide: <input type="beckbox" name="Title" value="!{Model.Title}" /><br />
+    Children: <input type="text" name="Children" value="!{Model.Children}" /><br />
+    When: <input type="text" name="When" value="!{Model.When}" /><br />
+    Commercial In Confidence: <input type="text" name="CommercialInConfidence" value="!{Model.CommercialInConfidence}" /><br />
+  </fieldset>
+  <button type="submit">save</button>
+</form>

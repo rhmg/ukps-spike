@@ -1,0 +1,282 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:Global.asax" caret="79" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:WindsorControllerFactory.cs" caret="1684" fromTop="26" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:UkpsEnvironment.cs" caret="856" fromTop="35" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Views/d:Shared/f:_global.spark" caret="0" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:UkpsInstaller.cs" caret="576" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:ControllerInstaller.cs" caret="594" fromTop="15" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Home.cs" caret="0" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:ShowHomePage/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:ShowHomePage/d:Services/f:Home.cs" caret="88" fromTop="3" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/d:contexts/f:document_store.cs" caret="850" fromTop="28" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/d:contexts/f:with_auto_mocking.cs" caret="679" fromTop="21" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/d:contexts/f:raven.cs" caret="3573" fromTop="15" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Action.cs" caret="101" fromTop="6" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Views/d:Pharmaceutical/f:Pharmaceutical.spark" caret="823" fromTop="14" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:RouteRegistration.cs" caret="466" fromTop="14" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:ShowHomePage/d:Views/d:Home/f:Home.spark" caret="664" fromTop="14" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/d:Persistable/f:ChangeSet.cs" caret="635" fromTop="22" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/d:Persistable/f:Technology.cs" caret="131" fromTop="7" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/f:PharmaceuticalController.cs" caret="219" fromTop="6" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:NHS.cs" caret="241" fromTop="11" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:NHS/d:Services/f:NHS.cs" caret="206" fromTop="9" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="511" fromTop="11" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="12001" fromTop="30" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="2185" fromTop="27" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:Global.asax.cs" caret="365" fromTop="16" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:MvcApplication.cs" caret="777" fromTop="33" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:Web.config" caret="1039" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="8719" fromTop="35" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="9742" fromTop="29" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="9353" fromTop="22" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="7348" fromTop="19" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="6820" fromTop="4" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="2009" fromTop="31" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="1759" fromTop="27" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="2027" fromTop="28" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="3202" fromTop="27" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="1465" fromTop="46" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="120" fromTop="5" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="329" fromTop="11" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="453" fromTop="11" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Views/d:Pharmaceutical/f:Pharmaceutical.spark" caret="41" fromTop="0" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/f:PharmaceuticalController.cs" caret="219" fromTop="6" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/f:RouteRegistration.cs" caret="466" fromTop="14" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:ShowHomePage/d:Views/d:Home/f:Home.spark" caret="423" fromTop="11" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="1329" fromTop="7" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="1839" fromTop="12" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="11117" fromTop="21" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="12110" fromTop="27" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="11907" fromTop="22" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="12567" fromTop="33" />
+      <File id="BD415E9B-D110-43DE-BA2B-E78FD8DAF6EC/f:Pharmaceutical.cs" caret="13322" fromTop="40" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:Pharmaceutical.cs" caret="3734" fromTop="36" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="1297" fromTop="34" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Shared/d:Resources/f:NHS.cs" caret="241" fromTop="11" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:Pharmaceutical/d:Services/f:Pharmaceutical.cs" caret="766" fromTop="20" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:NHS/d:Services/f:NHS.cs" caret="387" fromTop="12" />
+      <File id="1DBD1D6D-A368-4A30-A72D-0139A352D568/d:Features/d:NHS/d:Services/f:NHS.cs" caret="206" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="MvcApplication`0" priority="0" />
+      <Item value="public" priority="41" />
+      <Item value="interface" priority="1" />
+      <Item value="Nice" priority="0" />
+      <Item value="Ukps" priority="0" />
+      <Item value="Resources" priority="12" />
+      <Item value="Home`0" priority="0" />
+      <Item value="IHome`0" priority="0" />
+      <Item value="return" priority="13" />
+      <Item value="new" priority="18" />
+      <Item value="Home" priority="0" />
+      <Item value="class" priority="8" />
+      <Item value="IScanHorizons`0" priority="0" />
+      <Item value="HorizonScanner" priority="6" />
+      <Item value="string" priority="23" />
+      <Item value="int" priority="1" />
+      <Item value="bool" priority="2" />
+      <Item value="Id" priority="4" />
+      <Item value="ctor" priority="2" />
+      <Item value="protected" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="ResourceResult`0" priority="1" />
+      <Item value="HorizonScannerUrl`0" priority="0" />
+      <Item value="scanner" priority="1" />
+      <Item value="Technology`0" priority="4" />
+      <Item value="Drug`0" priority="0" />
+      <Item value="HorizonScannerAddUrl`0" priority="0" />
+      <Item value="addUrl" priority="0" />
+      <Item value="HorizonScanner`0" priority="10" />
+      <Item value="OK`1" priority="0" />
+      <Item value="input" priority="14" />
+      <Item value="raven" priority="2" />
+      <Item value="Glue" priority="0" />
+      <Item value="Persistable" priority="3" />
+      <Item value="id" priority="0" />
+      <Item value="var" priority="10" />
+      <Item value="static" priority="5" />
+      <Item value="Service" priority="1" />
+      <Item value="Establish`0" priority="1" />
+      <Item value="Title" priority="1" />
+      <Item value="It`0" priority="7" />
+      <Item value="put" priority="0" />
+      <Item value="GetResource`0" priority="0" />
+      <Item value="if" priority="10" />
+      <Item value="null" priority="14" />
+      <Item value="service_with_raven_persistence" priority="0" />
+      <Item value="Because`0" priority="1" />
+      <Item value="output" priority="1" />
+      <Item value="CommercialInConfidence" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Decide" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="Description" priority="0" />
+      <Item value="When" priority="1" />
+      <Item value="DateTime" priority="0" />
+      <Item value="result" priority="8" />
+      <Item value="ChangeSet" priority="2" />
+      <Item value="enum" priority="0" />
+      <Item value="Action`0" priority="2" />
+      <Item value="this" priority="2" />
+      <Item value="GetType`0" priority="2" />
+      <Item value="properties" priority="2" />
+      <Item value="Change`0" priority="2" />
+      <Item value="previous" priority="7" />
+      <Item value="ChangeSet`0" priority="0" />
+      <Item value="Edit" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="Changes" priority="3" />
+      <Item value="foreach" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="hs" priority="1" />
+      <Item value="property" priority="7" />
+      <Item value="List&lt;Change&gt;" priority="0" />
+      <Item value="Change" priority="1" />
+      <Item value="Which" priority="0" />
+      <Item value="Original" priority="1" />
+      <Item value="New" priority="0" />
+      <Item value="object" priority="6" />
+      <Item value="Who" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="newVal" priority="9" />
+      <Item value="original" priority="1" />
+      <Item value="oldVal" priority="10" />
+      <Item value="continue" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="Action" priority="2" />
+      <Item value="Children" priority="1" />
+      <Item value="ClinicalTrial" priority="2" />
+      <Item value="Value1" priority="0" />
+      <Item value="BindingFlags`0" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="forTechnology" priority="0" />
+      <Item value="TechnologyId" priority="0" />
+      <Item value="Array`0" priority="0" />
+      <Item value="action" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="Comparer" priority="0" />
+      <Item value="PropertyInfo`0" priority="2" />
+      <Item value="Pharmaceutical`0" priority="0" />
+      <Item value="p1" priority="0" />
+      <Item value="Equality`0" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="oldArray" priority="4" />
+      <Item value="newArray" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="NHS`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Features.HorizonScanner.Services.IScanHorizons">
+      <Item value="GetResource`0" priority="0" />
+      <Item value="PutResource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nice.Ukps.Features.HorizonScanner.HorizonScannerController">
+      <Item value="HorizonScannerUrl`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
+      <Item value="Store`0" priority="0" />
+      <Item value="SaveChanges`0" priority="0" />
+      <Item value="Load`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Glue.Mapping`2">
+      <Item value="Map`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Features.HorizonScanner.Services.HorizonScanner">
+      <Item value="PutResource`0" priority="0" />
+      <Item value="GetResource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Resources.HorizonScanner">
+      <Item value="Id" priority="4" />
+      <Item value="Title" priority="0" />
+      <Item value="ShouldBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldNotBeNull`0" priority="0" />
+      <Item value="ShouldEqual`1" priority="1" />
+      <Item value="ShouldEachConformTo`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Persistable.Technology">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="1" />
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Persistable.ChangeSet">
+      <Item value="ShouldNotBeNull`0" priority="0" />
+      <Item value="Action" priority="0" />
+      <Item value="Changes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Resources.Action">
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nice.Ukps.Resources.Action">
+      <Item value="Create" priority="1" />
+      <Item value="Edit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="3" />
+      <Item value="GetValue`0" priority="1" />
+      <Item value="PropertyType" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperty`0" priority="1" />
+      <Item value="IsArray" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nice.Ukps.Persistable.Change">
+      <Item value="Which" priority="0" />
+      <Item value="Original" priority="0" />
+      <Item value="Who" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ShouldEqual`1" priority="0" />
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Array">
+      <Item value="Length" priority="4" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

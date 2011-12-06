@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Nice.UKPS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ASPNetCategoryName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ASP.NET Apps v4.0.30319</Value>
+    </Setting>
+    <Setting Name="PrecompileSpark" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Mode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Development</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
